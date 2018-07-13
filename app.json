@@ -1,0 +1,16 @@
+{
+  "name": "JavaEEWebApp_Heroku",
+  "description": "test",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
