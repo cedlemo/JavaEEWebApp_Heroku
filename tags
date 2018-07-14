@@ -1,0 +1,45 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/bffbf463/
+APP_BASE_NAME	gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+CLASSPATH	gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v
+DEFAULT_JVM_OPTS	gradlew.bat	/^set DEFAULT_JVM_OPTS=$/;"	v
+DIRNAME	gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+DIRNAME	gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_HOME	gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+JavaEE Web App test	README.md	/^# JavaEE Web App test$/;"	c
+_SKIP	gradlew.bat	/^set _SKIP=2$/;"	v
+addons	app.json	/^  "addons": [$/;"	a
+buildpacks	app.json	/^  "buildpacks": [$/;"	a
+description	app.json	/^  "description": "test",$/;"	s
+die	gradlew	/^die () {$/;"	f
+distributionBase	gradle/wrapper/gradle-wrapper.properties	/^distributionBase=GRADLE_USER_HOME$/;"	k
+distributionPath	gradle/wrapper/gradle-wrapper.properties	/^distributionPath=wrapper\/dists$/;"	k
+distributionUrl	gradle/wrapper/gradle-wrapper.properties	/^distributionUrl=https\\:\/\/services.gradle.org\/distributions\/gradle-4.8.1-bin.zip$/;"	k
+end	gradlew.bat	/^:end$/;"	l
+env	app.json	/^  "env": {$/;"	o
+execute	gradlew.bat	/^:execute$/;"	l
+fail	gradlew.bat	/^:fail$/;"	l
+findJavaFromJavaHome	gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+formation	app.json	/^  "formation": {$/;"	o
+gradle.version	.gradle/buildOutputCleanup/cache.properties	/^gradle.version=4.8.1$/;"	k
+init	gradlew.bat	/^:init$/;"	l
+mainEnd	gradlew.bat	/^:mainEnd$/;"	l
+name	app.json	/^  "name": "JavaEEWebApp_Heroku",$/;"	s
+omega	gradlew.bat	/^:omega$/;"	l
+save	gradlew	/^save () {$/;"	f
+scripts	app.json	/^  "scripts": {$/;"	o
+warn	gradlew	/^warn () {$/;"	f
+win9xME_args	gradlew.bat	/^:win9xME_args$/;"	l
+win9xME_args_slurp	gradlew.bat	/^:win9xME_args_slurp$/;"	l
+zipStoreBase	gradle/wrapper/gradle-wrapper.properties	/^zipStoreBase=GRADLE_USER_HOME$/;"	k
+zipStorePath	gradle/wrapper/gradle-wrapper.properties	/^zipStorePath=wrapper\/dists$/;"	k
